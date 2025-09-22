@@ -2,13 +2,13 @@
 ## Project Objective:
 To provide a comprehensive, data-driven analysis of crime to support strategic decision-making in law enforcement and public safety.
 ## Project Questions:
-1.What is the total number of crimes recorded, and how has this number changed over the past few years (2021-2023)?
-2.What is the crime resolution rate, and how effective are the efforts of the authorities in resolving crimes?
-3.Which days of the week have the highest and lowest crime rates?
-4.Which months of the year see the most significant spikes or dips in crime?
-5.What are the "dangerous" and "safer" times of day in terms of crime frequency?
-6.What is the geographical distribution of crimes by country?
-7.Which types of crimes are most prevalent during specific time frames?
+1 What is the total number of crimes recorded, and how has this number changed over the past few years (2021-2023)?
+2 What is the crime resolution rate, and how effective are the efforts of the authorities in resolving crimes?
+3 Which days of the week have the highest and lowest crime rates?
+4 Which months of the year see the most significant spikes or dips in crime?
+5 What are the "dangerous" and "safer" times of day in terms of crime frequency?
+6 What is the geographical distribution of crimes by country?
+7 Which types of crimes are most prevalent during specific time frames?
 The dashboard aims to track and improve several key performance indicators (KPIs) related to crime analysis:
 1.	Total Crimes: The overall number of crimes recorded.
 2.	Crimes by Year: The trend in crime numbers over different years.
