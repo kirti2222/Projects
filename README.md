@@ -26,7 +26,8 @@ The dashboard aims to reveal several key insights:
 4. The dangerous time is identified as 12:00 AM and safer time is identified as 1:00 AM for the 12:00 AM to 2:59 AM Time Group with Violence and Sexual crimes at the top followed by Anti-Social Behaviour and Public Order.
 ![Alt image](https://github.com/kirti2222/Projects/blob/main/Screenshot%202025-09-22%20184032.png?raw=true)
 ![Alt image](https://github.com/kirti2222/Projects/blob/main/Screenshot%202025-09-22%20184112.png?raw=true)
-   
+## Final Conclusion
+The project successfully created a Power BI dashboard that provides a clear and actionable overview of crime data. The analysis shows that while authority efforts have led to a high-resolution rate, the total number of crimes remains a concern, with specific periods and types of crimes requiring more targeted arbitration. The dashboard effectively visualizes crime patterns, highlighting a decrease in total crimes in 2023 but also a significant portion of unresolved cases. The insights into specific days, months, and times of increased criminal activity can be used to inform strategic decisions such as increasing police presence during identified peak times like late night/early morning and specific months like October and November, to help reduce the number of crimes and further improve the resolution rate.
 
    
    
