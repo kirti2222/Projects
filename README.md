@@ -25,7 +25,7 @@ The dashboard aims to reveal several key insights:
 3. Saturdays and Mondays have the highest crime totals and October and November are the peak months for higher rate of crimes.
 4. The dangerous time is identified as 12:00 AM and safer time is identified as 1:00 AM for the 12:00 AM to 2:59 AM Time Group with Violence and Sexual crimes at the top followed by Anti-Social Behaviour and Public Order.
 ![Alt image](https://github.com/kirti2222/Projects/blob/main/Screenshot%202025-09-22%20184032.png?raw=true)
-
+![Alt image] (https://github.com/kirti2222/Projects/blob/main/Screenshot%202025-09-22%20184112.png?raw=true)
 
    
    
